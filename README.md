@@ -12,12 +12,6 @@ O objetivo deste projeto é **analisar os dados de clientes da Telecom X** e ide
 - Criação de **visualizações estratégicas** para identificar padrões e tendências;
 - Geração de um **relatório final** com insights sobre os fatores de evasão.  
 
-## Tecnologias Utilizadas  
-- **Python**;
-- **Pandas** – manipulação de dados;
-- **Matplotlib / Seaborn** – visualizações gráficas;
-- **Requests** – acesso à API.
-
 ## Como Usar  
 ### 1. Baixe o projeto  
 Clone este repositório ou faça o download do código-fonte para sua máquina.
