@@ -19,9 +19,6 @@ Clone este repositório ou faça o download do código-fonte para sua máquina.
 ### 2. Instale as dependências
 Certifique-se de ter o Python instalado e instale as bibliotecas necessárias.
 
-### 3. Execute a análise
-No terminal, rode o script principal para iniciar a análise:
-
-``` bash
-python churn_analysis.py
-```
+### 3. **Execute os notebooks ou scripts**
+  Os notebooks disponíveis em notebooks/ contêm todas as etapas do pipeline de análise, modelagem e avaliação.
+  Para rodar o projeto, basta abrir o Jupyter Notebook ou VSCode e seguir as instruções comentadas no código.
